@@ -6,52 +6,39 @@
 
 
 
+ <!DOCTYPE html>
+<html>
+<head>
+<style> 
+#example1 {
+  background-image: url(img_flwr.gif), url(paper.gif);
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+}
+</style>
+</head>
+<body>
 
-function setup() {
-createCanvas(480, 120);
-}
-function draw() {
-if (mouseIsPressed) {
-fill(0);
-} else {
-fill(255);
-}
-ellipse(mouseX, mouseY, 80, 80);
-}
+<h1>Multiple Backgrounds</h1>
+<p>The following div element has two background images:</p>
+
+<div id="example1">
+  <h1>Lorem Ipsum Dolor</h1>
+  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+  <p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+</div>
+
+</body>
+</html>
 
 
-function setup() {
-createCanvas(480, 120);
-}
-function draw() {
-if (mouseIsPressed) {
-fill(0);
-} else {
-fill(255);
-}
-ellipse(mouseX, mouseY, 80, 80);
-}
- 
- function setup() {
-// put setup code here
-}
-function draw() {
-background(204);
-ellipse(50, 50, 80, 80);
-}
-function setup() {
-  // put setup code here
-    createCanvas(480, 120);
-}
 
-}
 
-function draw() {
-  // put drawing code here
-    if (mouseIsPressed) {
-        fill(0);
-    } else {
-        fill(255);
-    }
-    ellipse(mouseX, mouseY, 80, 80);
-}
+
+Input ()   Sum()
+Int ()     Min()
+
+
+
+Print "A B C D"
