@@ -63,7 +63,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           
 
-          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>Master mind game</h6>
+          <h6 class="w3-text-teal"><i class="fa fa- fa-fw w3-margin-right"></i>other</h6>
 
           <iframe src="https://editor.p5js.org/rubenbravolugo/embed/nOFV8tKJV"></iframe>
 
