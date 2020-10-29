@@ -1,4 +1,6 @@
 
+   
+<!-- circle drawings Thank you to Yong Bmakos - Oregon State Cascades -->
 
 <html lang="en">
   <head>
@@ -124,7 +126,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <iframe src="https://editor.p5js.org/rubenbravolugo/embed/nOFV8tKJV"></iframe>
 
 
-          <p> Mastermind Game </p>
+       
           <hr>
         </div>
         <div class="w3-container">
@@ -136,7 +138,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
 
 
 
-          </p><br>
+          <br>
         </div>
       </div>
 
